@@ -1,0 +1,12 @@
+{
+    "domain": "squadware-dev-ui.azurewebsites.net",
+    "username": "tuuvv.uit@gmail.com",
+    "file": {
+        "path0": "data-test/certificate.jpg",
+        "path1": "data-test/construction.pdf"
+    },
+    "password": "123456",
+    "cases": {
+        "TC_2527_1": {}
+    }
+}

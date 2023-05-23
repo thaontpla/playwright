@@ -1,0 +1,15 @@
+{
+    "domain": "squadware-dev-ui.azurewebsites.net",
+    "username": "thaontp.la@gmail.com",
+    "password": "123456",
+    "file": {
+        "path0": "data-test/certificate.jpg",
+        "path1": "data-test/construction.pdf"
+    },
+    "note": "This is note for upload file",
+    "expiration_date": "12/12/2022",
+    "cases": {
+        "TC_2509_1": {},
+        "TC_2509_2": {}
+    }
+}

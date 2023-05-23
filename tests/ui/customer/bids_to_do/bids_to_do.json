@@ -1,0 +1,10 @@
+{
+  "api": "https://squadware-auth-api.azurewebsites.net",
+  "domain": "squadware-dev-ui.azurewebsites.net",
+  "domain_api": "squadware-api.azurewebsites.net",
+  "username": "thaontp.la@gmail.com",
+  "password": "123456",
+  "cases": {
+    "TC_2493_1": {}
+  }
+}

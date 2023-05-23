@@ -1,0 +1,27 @@
+{
+    "authdomain": "squadware-auth-api.azurewebsites.net",
+    "maindomain": "squadware-api.azurewebsites.net",
+    "userdomain": "squadware-user-api.azurewebsites.net",
+    "custdomain": "squadware-customer-api.azurewebsites.net",
+    "username": "tuuvv.uit@gmail.com",
+    "password": "123456",
+    "cases": {
+        "TC_2595_1": {
+            "limit": 0,
+            "pageNumber": 1,
+            "pageSize": 24,
+            "sortBy": "companyName",
+            "sortType": "desc",
+            "date": "2022-08-21T17:00:00.000Z"
+        },
+        "TC_2595_2": {
+            "limit": 0,
+            "pageNumber": 1,
+            "pageSize": 24,
+            "sortBy": "companyName",
+            "sortType": "desc",
+            "date": "2022-08-21T17:00:00.000Z",
+            "employeeId": "f4c04a13-1745-41c2-bd65-8b0e02571378"
+        }
+    }
+}

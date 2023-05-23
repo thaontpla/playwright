@@ -1,0 +1,8 @@
+{
+    "domain": "squadware-dev-ui.azurewebsites.net",
+    "username": "tester@gmail.com",
+    "password": "123456",
+    "cases": {
+        "TC_2670_1": {}
+    }
+}

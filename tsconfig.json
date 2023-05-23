@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "rootDir": ".",
+      "module": "commonjs",
+      "target": "es2022",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": "./",
+      "paths": {
+        "@*": ["src/*"],
+        "@core/*": ["src/core/*"],
+        "@utils/*": ["src/core/utils/*"],
+        "@conf/*": ["src/conf/*"],
+        "@types/*": ["src/types/*"],
+        "@api/*": ["page/api/*"],
+        "@ui/*": ["page/ui/*"]
+      },
+      "esModuleInterop": true,
+      "resolveJsonModule": true
+    }
+  }
+  

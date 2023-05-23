@@ -1,0 +1,13 @@
+{
+  "api": "https://squadware-auth-api.azurewebsites.net",
+  "domain": "squadware-customer-api.azurewebsites.net",
+  "domainUI": "squadware-dev-ui.azurewebsites.net",
+  "username": "thaontp.la@gmail.com",
+  "password": "123456",
+  "fileName": "construction.pdf",
+  "idCustomer":"08da7578-7062-45d8-897f-269129941c14",
+  "note":"automation test",
+  "cases": {
+    "TC_2530_1": {}
+  }
+}

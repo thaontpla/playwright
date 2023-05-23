@@ -1,0 +1,11 @@
+{
+    "authdomain": "squadware-auth-api.azurewebsites.net",
+    "maindomain": "squadware-api-demo.azurewebsites.net",
+    "userdomain": "squadware-user-api.azurewebsites.net",
+    "custdomain": "squadware-customer-api.azurewebsites.net",
+    "username": "tuuvv.uit@gmail.com",
+    "password": "123456",
+    "cases": {
+        "TC_2589_1": {}
+    }
+}
